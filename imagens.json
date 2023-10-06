@@ -2,14 +2,14 @@
     "animals": [
       {"imagemUrl": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg", "name": "Gato"},
       {"imagemUrl": "https://pixabay.com/get/g1faa5fbeaebd6287ec764dbc28934e59986bd7a21145efd66eb6d1557d8428b691884e0e6b9ea45a19174c32ecbd7fcb_1280.jpg", "name": "Raposa"},
-      {"imagemUrl": "https://pixabay.com/pt/photos/fox-natureza-animais-roux-fauna-715588/", "name": "Gato 2"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2015/08/06/17/23/raccoon-879488_960_720.jpg", "name": "Guaxinim"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2014/08/26/15/28/lion-428177_960_720.jpg", "name": "Leão"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2018/05/09/21/05/bird-3385271_960_720.jpg", "name": "Pássaro"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2015/06/08/15/18/tiger-801609_960_720.jpg", "name": "Tigre"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2017/05/18/13/32/giraffe-2320562_960_720.jpg", "name": "Girafa"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2017/09/07/08/54/elephant-2726022_960_720.jpg", "name": "Elefante"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2016/11/22/21/42/primate-1853558_960_720.jpg", "name": "Macaco"}
+      {"imagemUrl": "https://pixabay.com/get/gb95292d7c6fe187a21df1a64493f19ef4fd8756f81ee5b1dda9652af2deb60d9d9ba3c38b0be4d79123bb14d6f975d76e2280f8d0769e7989acc9bb10a8c9cde_1280.jpg", "name": "Gato 2"},
+      {"imagemUrl": "https://pixabay.com/get/g34606efb1e72f40be200d8849a6189e2e9be543d6b18265f1fc1706808ab76da71cdf6e5da44add9acfb78bcf28b32e6_1280.jpg", "name": "Guaxinim"},
+      {"imagemUrl": "https://pixabay.com/get/g496cdfdcdb05ea1e800bbe62465051ec20b846275056684289e5e34546fbffeacade1995d22a68726f547750437efd384aa75e32bb9b0176a1ec15562e0e6fbe_1280.jpg", "name": "Leão"},
+      {"imagemUrl": "https://pixabay.com/get/gebe3da4cf93ea578c4fd06f616b356dfaaa5ab269200c2c87ca8f4bed08bed4633fbbac86f8ad1c2cfe933df5a4110349e49bacc81c6cea2cf3ecc210b17e20f_1280.jpg", "name": "Pássaro"},
+      {"imagemUrl": "https://pixabay.com/get/g63a7f6f4e315efa094d51bf1554bd539b95347a0119cc3312e9353ec3d47fa3c2c9d94ea4763261dfa8df573db44ec151f81973351465e0650f6795325ed49a3_1280.jpg", "name": "Tigre"},
+      {"imagemUrl": "https://pixabay.com/get/gdb482aa82a21d8a6e6814b5378d0d784fea815c4bf3e555ca4e007995668087a99d83ee10cd53fece8758c0ace4c03964df7ebeb2a9c1f912f32cbdac97a49e6_1280.jpg", "name": "Girafa"},
+      {"imagemUrl": "https://pixabay.com/get/gffc1789b257919418c8b6a8b7a252de94f3c5728dc0af8f92fa9cebc7aeb0a09b9a6547a09822cec3bd0410bef350fff5aa45365597348e80641b1ccc4c32c81_1280.jpg", "name": "Elefante"},
+      {"imagemUrl": "https://pixabay.com/get/g4d723e75b7cf180f1fe6e107df1b2ce6e81d25006c62158b4738cd04088b8aef1ea9fb85428848de5e1dc969911ab5ee7393117c4ccefe78de8cff1ff3e6e034_1280.jpg", "name": "Macaco"}
     ]
   }
   
