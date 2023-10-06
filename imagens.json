@@ -1,8 +1,8 @@
 {
     "animals": [
       {"imagemUrl": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_960_720.jpg", "name": "Gato"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2018/01/28/12/37/penguin-3112331_960_720.jpg", "name": "Pinguim"},
-      {"imagemUrl": "https://cdn.pixabay.com/photo/2016/02/10/16/37/cat-1192026_960_720.jpg", "name": "Gato 2"},
+      {"imagemUrl": "https://pixabay.com/get/g1faa5fbeaebd6287ec764dbc28934e59986bd7a21145efd66eb6d1557d8428b691884e0e6b9ea45a19174c32ecbd7fcb_1280.jpg", "name": "Raposa"},
+      {"imagemUrl": "https://pixabay.com/pt/photos/fox-natureza-animais-roux-fauna-715588/", "name": "Gato 2"},
       {"imagemUrl": "https://cdn.pixabay.com/photo/2015/08/06/17/23/raccoon-879488_960_720.jpg", "name": "Guaxinim"},
       {"imagemUrl": "https://cdn.pixabay.com/photo/2014/08/26/15/28/lion-428177_960_720.jpg", "name": "Leão"},
       {"imagemUrl": "https://cdn.pixabay.com/photo/2018/05/09/21/05/bird-3385271_960_720.jpg", "name": "Pássaro"},

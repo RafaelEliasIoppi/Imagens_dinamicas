@@ -1,5 +1,6 @@
 var pagina = 1; // número da página a ser carregada
 var carregando = false; // indica se uma requisição Ajax está em andamento
+var divImagens = document.getElementById("images"); // Elemento onde as imagens serão exibidas
 
 // função para carregar mais imagens
 function carregarImagens() {
@@ -13,7 +14,6 @@ function carregarImagens() {
   ajax.onreadystatechange = function() {
     if (ajax.readyState == 4 && ajax.status == 200) {
       var images = JSON.parse(ajax.responseText);
-      var divImagens = document.getElementById("images");
       var imagensPagina = images.animals.slice((pagina - 1) * 10, pagina * 10);
 
       for (const image of imagensPagina) {
@@ -21,6 +21,10 @@ function carregarImagens() {
         img.src = image.imagemUrl;
         img.alt = image.name;
         divImagens.appendChild(img);
+        
+        // Adicionar uma linha divisória entre as imagens
+        var hr = document.createElement("hr");
+        divImagens.appendChild(hr);
       }
       carregando = false;
       pagina++;
@@ -35,3 +39,6 @@ window.addEventListener("scroll", function() {
     carregarImagens();
   }
 });
+
+// Chame a função carregarImagens() para carregar imagens iniciais quando a página carrega
+carregarImagens();
